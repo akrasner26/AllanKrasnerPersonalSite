@@ -1,0 +1,45 @@
+.footer{
+    margin-top: 0;
+    background-color: #01579B;
+    color: #2cb5e8;
+    padding: 20px;
+}
+
+body{
+    font-family: 'Roboto', 'Arial', sans-serif;
+    line-height: 1.5;
+    padding: 0px;
+    margin:0;
+}
+
+.glyphicon {
+    display:block;
+    text-align: center;
+    padding: px;
+    margin: 0px;
+}
+
+.contact{
+    background: linear-gradient(219deg,#0fb8ad 0%,#1fc8bd 51%,#2cb5e8 75%);
+    padding: 0;
+    margin-top: 10px;
+}
+.jumbotron{
+    background: linear-gradient(141deg,#0fb8ad 0%,#1fc8bd 51%,#2cb5e8 75%);
+    padding: 3px;
+}
+.img-circle{
+    border-radius: 100%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+    font-size: 25px;
+}
+
+.progress{
+    width: 40%;
+}
